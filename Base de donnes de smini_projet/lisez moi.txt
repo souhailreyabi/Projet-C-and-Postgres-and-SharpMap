@@ -1,0 +1,15 @@
+-------------------------
+Souhail Reyabi
+pour restaurer les donnes creer tout dabord des bases de donnes Spatial  vides  avec les nom des projet puis bottom droit 
+restaurer
+          Nom_fichier.backup
+ nb:  Mini_Projet 1: nom base de donne: Exercice
+      MiniProjet2 :nom de la base de donne :sharpmapM
+
+
+ 
+nb : en cas des problemes veuillez s'il vous  voir la chainne de connexion src  dans le code du projet
+			bonne courage à  tous 
+        -------------------------------------------------------
+			Souhail  Reyabi
+        ------------------------------------------------------- 

@@ -1,0 +1,6 @@
+C:\Users\RET\source\repos\Exercice\Exercice\obj\Release\Exercice.csprojAssemblyReference.cache
+C:\Users\RET\source\repos\Exercice\Exercice\obj\Release\Exercice.exe.config
+C:\Users\RET\source\repos\Exercice\Exercice\obj\Release\Exercice.Form1.resources
+C:\Users\RET\source\repos\Exercice\Exercice\obj\Release\Exercice.Properties.Resources.resources
+C:\Users\RET\source\repos\Exercice\Exercice\obj\Release\Exercice.csproj.GenerateResource.cache
+C:\Users\RET\source\repos\Exercice\Exercice\obj\Release\Exercice.csproj.CoreCompileInputs.cache
